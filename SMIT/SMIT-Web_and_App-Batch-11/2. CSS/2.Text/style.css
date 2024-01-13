@@ -1,0 +1,103 @@
+/* @font-face {
+    font-family: 'Rubik Glitch', system-ui;
+    src: url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap') ;
+} */
+/* @import url('https://github.com/Ashrib/SMIT-Web_and_App-Batch-11https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap'); */
+
+/* p{ */
+    /* font-family: 'Rubik Glitch'; */
+    /* font-family: 'Inconsolata'; */
+    /* font-size: 1.5em; */
+    /* text-transform: capitalize; */
+    /* font-weight: 600; */
+    /* font-style: italic; */
+    /* text-decoration: dotted; */
+    /* line-height: 0.75em; */
+
+    /* letter-spacing: 2em; */
+    /* word-spacing: 1.5em; */
+/* } */
+/* h1{
+    text-align: justify;
+    
+} */
+
+/* div{
+    text-align: justify;
+} */
+/* p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:50px ;
+} */
+
+/* @font-face {
+    font-family:"meraj" ;
+    src: url('./fonts/BungeeSpice-Regular.ttf');
+}
+p{
+    font-family:"meraj" ;
+} */
+
+
+/* p{
+    font-weight:lighter;
+    font-style: italic;
+} */
+/* p{
+    text-transform: capitalize;
+} */
+
+
+/* a{
+    text-decoration: none;
+}
+p{
+    text-decoration:line-through;
+} */
+
+/* p{ */
+    /* line-height: 0px; */
+    /* word-spacing: 10px;
+    letter-spacing: 10px; */
+    /* text-align: justify; */
+    /* text-indent: 50px; */
+
+/* } */
+
+/* h1{
+    text-shadow: 12px 5px 5px blue;
+} */
+
+/* p::first-line{
+    font-size: 50px;
+    color: blue;
+} */
+/* a:visited{
+    color: red;
+} */
+/* a:visited{
+    color: black;
+    
+} */
+
+
+/* input:hover{
+    background-color: purple;
+}
+input:active{
+    background-color: yellow;
+}
+input:focus{
+    background-color: red;
+} */
+/* a{
+    color: aqua ;
+} */
+
+/* p[class='abc']{
+    background-color: yellow;
+} */
+/* .abc{
+    background-color: yellow;
+
+} */
